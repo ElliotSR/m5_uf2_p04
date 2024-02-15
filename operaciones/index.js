@@ -14,6 +14,7 @@ function suma(...valors) {
     return resultat;
 }
 
+
 /**
  * Aquesta funcio multiplica tots els valors passats per parametre
  * 
