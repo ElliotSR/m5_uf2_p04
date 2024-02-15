@@ -14,7 +14,7 @@ function suma(...valors) {
     return resultat;
 }
 
-// NUEVA VERSIÓN ELLIOT SR
+// NUEVA VERSIÓN ELLIOT SR  
 
 /**
  * Aquesta funcio multiplica tots els valors passats per parametre
