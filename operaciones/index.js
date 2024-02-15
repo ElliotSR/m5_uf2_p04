@@ -16,7 +16,7 @@ function suma(...valors) {
 /**Nuevo edit para que aparezca el merge */
 
 
-// NUEVA VERSIÓN ELLIOT SR  
+// NUEVA VERSIÓN ELLIOT SR  v2.0
 
 /**
  * Aquesta funcio multiplica tots els valors passats per parametre
