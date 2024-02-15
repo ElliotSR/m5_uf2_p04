@@ -13,6 +13,8 @@ function suma(...valors) {
 
     return resultat;
 }
+/**Nuevo edit para que aparezca el merge */
+
 
 // NUEVA VERSIÓN ELLIOT SR  
 
